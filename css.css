@@ -82,6 +82,7 @@ margin-left: calc(calc(100% - 100%) / 2);
     border-top: 4px solid #155646;
     height: calc(100% * 0,20);
     background-color:white;
+
 }
 .rodape {
     background-color: #21997b;
@@ -107,5 +108,18 @@ margin-left: calc(calc(100% - 100%) / 2);
 }
 .subconteudo, .conteudo1{
     display: inline-block;
+}
+.subconteudo2{
+    margin-left: 5%;
+}
+.conteudo2{
+    margin-left: 2%;
+    margin-bottom: 5%;
+}
+.subconteudo2, .conteudo2{
+    display: inline-block;
+}
+body h1{
+    margin-left: 4px;
 }
 /** pessoa kevin **/
