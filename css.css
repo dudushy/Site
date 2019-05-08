@@ -123,3 +123,48 @@ body h1{
     margin-left: 4px;
 }
 /** pessoa kevin **/
+.corpo_texto{
+    -webkit-column-count:2; /* para funcionar Chrome, Safari, Opera */
+    -moz-column-count:2;    /* para funcionar  Firefox */
+    column-count:2;    /* serve para divider texto ao meio dentro de elementos*/ /* padrão */
+    margin-top: 5px;
+    border: 10px;
+    text-align: justify;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding: 20px;
+}
+#titulo {
+    display: inline-block; /* alinhando titulo texto */
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 60px;
+    
+
+}
+#itaipu{   /* espaçamento da fonte img  */
+    margin-left: 59%;
+    margin-top: -38px;
+    }
+
+.img_hidraulica img { /* configuração da imagem 1*/
+      width: 500px;
+    height: 400px;
+    margin-top: 90px;
+    margin-left: 80px;
+    border: 4px solid #21997b;
+}
+    
+.img_hidraulica2 img {
+    display: inline-block; /* configuração da imagem 2 */
+    width: 400px;
+    height: 400px;
+    float: right;
+    margin-top: -411px;
+    margin-right: 180px;
+    border: 4px solid #21997b;
+}
+#esquema { /* espaçamento da fonte img 2 */
+margin-left: 80px;
+}
+
