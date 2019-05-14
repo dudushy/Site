@@ -98,6 +98,9 @@ margin-left: calc(calc(100% - 100%) / 2);
 .rodape td{
     padding: 3px;
 }
+form{
+    float: right;
+}
 /** pessoal **/
 .subconteudo{
     margin-left: 5%;
