@@ -1,4 +1,4 @@
-body{
+﻿body{
     padding: 0px;
     margin: 0px;
     height: 100%;
@@ -272,3 +272,14 @@ margin-left: 80px;
     margin-left: 350px;
     margin-right: 10px;
     }
+/* Inicio - Eduardo */
+#print_cabecalhoINICIO {
+    border-radius: 20px;
+    margin-left: 220px;
+}
+.textoINICIO {
+    margin-left: 80px;
+}
+.texto_plusINICIO {
+    margin-left: 150px;
+}
